@@ -2,14 +2,16 @@ const task = document.querySelector('.tasks')
 
 function addTask() {
   let taskValue = document.getElementById('task-add').value
-  
+
+  let num = ''
   if (taskValue != '') {
+    let num1 = document.querySelector('.num1')
     let newTask = document.createElement('li')
-    
+
     // Id da nova tarefa
     let idTask = taskValue.charAt(0) + Math.floor(Math.random() * 100000)
     newTask.setAttribute('id', idTask)
-     
+    
     newTask.innerHTML = taskValue
     
     let span = document.createElement('span')
@@ -34,7 +36,6 @@ function addTask() {
   } else {
     alert('Digite sua tarefa')
   }
-
 }
 
 function deleteTask(id) {
@@ -42,5 +43,5 @@ function deleteTask(id) {
 }
 
 function taskCompleted(id) {
- id.setAttribute('class', 'checked')
+  id.setAttribute('class', 'checked')
 }
