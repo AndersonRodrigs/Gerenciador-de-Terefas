@@ -8,7 +8,13 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-### <a href="https://andersonrs080.github.io/Gerenciador-de-Terefas/">Ver projeto</a>
+### Link do Projeto: https://andersonrs080.github.io/Gerenciador-de-Terefas/
+
+## Contact
+
+Anderson Rodrigues - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+
+
 
 
 
