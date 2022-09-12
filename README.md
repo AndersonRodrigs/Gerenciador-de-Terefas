@@ -8,11 +8,12 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-### Link do Projeto: https://andersonrs080.github.io/Gerenciador-de-Terefas/
+### <a href="https://andersonrs080.github.io/Gerenciador-de-Terefas/" target="_blank">Ver projeto </a> 
 
-## Contact
+### Contact
 
-Anderson Rodrigues - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+<a href="https://www.linkedin.com/in/anderson-r-souza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:anderson.rodriguesouz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 
