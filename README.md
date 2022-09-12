@@ -1,5 +1,5 @@
 # Projeto Gerenciador-de-Terefas
-<img src="img\Captura de Tela (59).png" alt="exemplo imagem">
+<img src="img/Captura de Tela (60).png" alt="exemplo imagem">
 
 > Gerenciador de tarefa simples, onde você pode adicionar, marcar como concluídas e excluir suas tarefas.
 
